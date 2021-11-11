@@ -8,4 +8,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit30G&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rishit30G&theme=github)
