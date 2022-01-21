@@ -18,6 +18,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1IdfW9ooE4WzqluaOdLigOgqP5aKHvS3A/view?usp=sharing)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📚 &nbsp; When I'm free I like to work on my soft skills and make my self a better person 
+- ⚡ &nbsp; FunFact: Daily Meditation 🧘🏻‍♂️> Daily Motivation 💪
 
 
 
