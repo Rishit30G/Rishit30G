@@ -3,20 +3,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta;Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
+ <h2 align="center">🚀"Believes in Working Hard and Achieving Goals!"👨‍💻</h2>
+ 
+ <br>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱,C++ Programmer💻) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 </br>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🔭 &nbsp; I’m currently working as a **Front-End Intern** in a startup (Ex- 6 months Flutter Intern) 
+- 🌱 &nbsp; I’m currently learning JavaScript and React.js
+- 👨🏻‍💻 &nbsp; I enjoy solving programming problems at Codeforces and LeetCode
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1IdfW9ooE4WzqluaOdLigOgqP5aKHvS3A/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 📚 &nbsp; When I'm free I like to work on my soft skills and make my self a better person 
+
+
+
 
 ### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rishit30G&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
