@@ -4,17 +4,25 @@
   </a>
 </h1>
 
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+</br>
 
-<br>
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1IdfW9ooE4WzqluaOdLigOgqP5aKHvS3A/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 ### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rishit30G&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit30G&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-<br>
-
-<br>
 
 ### Languages and Tools:
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/74411873/147396578-39a852d5-d8f1-4ad7-bc50-02bcbda7e444.png" alt="pytorch" height="42px"/> </a> 
