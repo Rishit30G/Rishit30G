@@ -45,6 +45,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br> 
 
+<br>
 
 ### Socials 
 <a href="https://www.linkedin.com/in/rishit-gupta-4b18841b1/" target="_blank"> <img src="https://user-images.githubusercontent.com/74411873/147396963-7f88cda0-f57a-4478-876f-d08536477d20.png" align="left" alt="git" height='40px'/> </a>
