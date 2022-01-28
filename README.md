@@ -28,6 +28,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit30G&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
+<br>
 
 ### Languages and Tools:
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/74411873/147396578-39a852d5-d8f1-4ad7-bc50-02bcbda7e444.png" alt="pytorch" height="42px"/> </a> 
@@ -43,6 +44,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 <br> 
+
 
 ### Socials 
 <a href="https://www.linkedin.com/in/rishit-gupta-4b18841b1/" target="_blank"> <img src="https://user-images.githubusercontent.com/74411873/147396963-7f88cda0-f57a-4478-876f-d08536477d20.png" align="left" alt="git" height='40px'/> </a>
