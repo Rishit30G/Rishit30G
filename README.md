@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working as a **Front-End Intern** in a startup (Ex-Flutter Intern) 
+- 🔭 &nbsp; I have worked as a **Front-End Intern** in a startup (Ex-Flutter Intern) 
 - 🌱 &nbsp; I’m currently learning JavaScript and React.js
 - 👨🏻‍💻 &nbsp; I enjoy solving programming problems at Codeforces and LeetCode
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hkaVm0T0KYQkGPtkpTq0no6nUDGi-ivN/view?usp=sharing)
