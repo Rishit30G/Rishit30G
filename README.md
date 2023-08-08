@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Currently working as an **Open Source developer** at C4GT and recently completed my **SDE Internship** at ProdigalAI
+- 🏢 &nbsp; Currently working as an **Open Source developer** at C4GT and recently completed my **SDE Internship** at ProdigalAI
 - 🔭 &nbsp; I have worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
 - 🌱 &nbsp; I’m currently learning **GraphQL** and **NodeJS**
 - 👨🏻‍💻 &nbsp; I enjoy solving programming problems at **Codeforces** and **LeetCode**
