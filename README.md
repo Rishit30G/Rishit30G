@@ -5,8 +5,6 @@
 </h1>
  <h2 align="center">"Believe in Working Hard and Achieving Goals!"👨‍💻</h2>
  
- 
- 
  <br>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Flutter Developer 📱,C++ Programmer💻) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -14,14 +12,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🧐 More About Me:
 
-- 🏢 &nbsp; Currently working as an **Open Source developer** at C4GT and recently completed my **SDE Internship** at ProdigalAI
+- 💼 &nbsp; I'm an **Incoming SDE Intern at rtCamp** and currently appointed as the **President for CodeForGovTech** College Chapter
+- 🏢 &nbsp; Worked as an **Open Source developer** at **C4GT'23 (Equivalent to GSoC)** and completed **SDE Internship** at **ProdigalAI, Sydney**
 - 🔭 &nbsp; I have worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
 - 🌱 &nbsp; I’m currently learning **GO** and **GraphQL**
 - 👨🏻‍💻 &nbsp; I enjoy solving programming problems at **Codeforces** and **LeetCode**
 - 💬 &nbsp; Feel free to ask my review on latest tools and tech products in market!   
 - 📚 &nbsp; When I'm free I like to work on my soft skills and make my self a better person 
 - 💳 &nbsp; Visit: https://bit.ly/rishit-gupta to know more
-- ⚡ &nbsp; FunFact: Daily Meditation 🧘🏻‍♂️> Daily Motivation 💪
+- ⚡ &nbsp; **FunFact: Daily Meditation 🧘🏻‍♂️> Daily Motivation 💪**
 
 
 
