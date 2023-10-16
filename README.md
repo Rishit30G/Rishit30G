@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta;Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
- <h2 align="center">🚀"Believe in Working Hard and Achieving Goals!"👨‍💻</h2>
+ <h2 align="center">"Believe in Working Hard and Achieving Goals!"👨‍💻</h2>
+ 
+ 
  
  <br>
 
@@ -41,15 +43,19 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://i.postimg.cc/Dw9PqVr3/512px-Typescript-logo-2020-svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" align="left" alt="git" height='42px'/> </a>
-
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://i.postimg.cc/8CGw2QjB/1200px-Graph-QL-Logo-svg.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" align="left" alt="git" height='42px'/> </a>
 <br>
 
+<br>
 <br> 
 
 <br>
