@@ -3,15 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta;Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
- <h2 align="center">"Believe in Working Hard and Achieving Goals!"👨‍💻</h2>
+ <h3 align="center"><i>Believe in Working Hard and Achieving Goals!</i> 😄 </h2>
  
- <br>
+### 🧐 About Me:
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Flutter Developer 📱,C++ Programmer💻) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-</br>
-
-### 🧐 More About Me:
-
+- 🏫 &nbsp; Currently in my **Final Year** pursing **Btech in Computer Science and Engineering**
 - 💼 &nbsp; I'm an **Incoming SDE Intern at rtCamp** and currently appointed as the **President for CodeForGovTech** College Chapter
 - 🏢 &nbsp; Worked as an **Open Source developer** at **C4GT'23 (Equivalent to GSoC)** and completed **SDE Internship** at **ProdigalAI, Sydney**
 - 🔭 &nbsp; I have worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
@@ -53,10 +49,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://i.postimg.cc/8CGw2QjB/1200px-Graph-QL-Logo-svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" align="left" alt="git" height='42px'/> </a>
 <br>
-
-<br>
-<br> 
-
 <br>
 
 ### Socials 
