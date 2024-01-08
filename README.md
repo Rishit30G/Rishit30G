@@ -35,8 +35,6 @@
 
 ### Languages and Tools:
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/74411873/147396578-39a852d5-d8f1-4ad7-bc50-02bcbda7e444.png" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://i.postimg.cc/Dw9PqVr3/512px-Typescript-logo-2020-svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
@@ -47,7 +45,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://i.postimg.cc/8CGw2QjB/1200px-Graph-QL-Logo-svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" align="left" alt="git" height='42px'/> </a>
-<br>
 <br>
 
 ### Socials 
