@@ -1,4 +1,5 @@
-![Black Technology LinkedIn Banner (3)](https://github.com/Rishit30G/Rishit30G/assets/74411873/d005c5af-f074-4e54-8f24-f1b898c763dc)
+
+![Black Technology LinkedIn Banner (4)](https://github.com/Rishit30G/Rishit30G/assets/74411873/7919ade4-dff4-4fb6-9406-b1f297e2443e)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
