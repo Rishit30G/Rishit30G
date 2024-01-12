@@ -1,3 +1,5 @@
+![Black Technology LinkedIn Banner (3)](https://github.com/Rishit30G/Rishit30G/assets/74411873/d005c5af-f074-4e54-8f24-f1b898c763dc)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta+😎;Welcome+to+my+Github!&center=true&size=30">
