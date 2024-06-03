@@ -10,11 +10,11 @@
  
 ### 🧐 About Me:
 
-- 🏫 &nbsp; Currently in my **Final Year** pursing **Btech in Computer Science and Engineering**
-- 💼 &nbsp; I'm an **SDE Intern at rtCamp** and **President for CodeForGovTech** College Chapter
+- 🏫 &nbsp; Completed **Btech in Computer Science and Engineering**
+- 💼 &nbsp; Working as an **SDE Intern at rtCamp**
 - 🏢 &nbsp; Worked as an **Open Source developer** at **C4GT'23 (Equivalent to GSoC)** and completed **SDE Internship** at **ProdigalAI, Sydney**
-- 🔭 &nbsp; I have worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
-- 🌱 &nbsp; I’m currently learning **GO** and **GraphQL**
+- 🔭 &nbsp; I have also worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
+- 🌱 &nbsp; I’m currently a beginner in **GO** and **GraphQL**
 - 👨🏻‍💻 &nbsp; I enjoy solving programming problems at **Codeforces** and **LeetCode**
 - 💬 &nbsp; Feel free to ask my review on latest tools and tech products in market!   
 - 📚 &nbsp; When I'm free I like to work on my soft skills and make my self a better person 
