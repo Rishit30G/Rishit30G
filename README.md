@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta+😎;Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
- <h2 align="center"><i> Every day it gets a little easier. But you got to do it every day. That's the hard part. But it does get easier </i> 🚀 </h2>
+ <h2 align="center"><i> Every day it gets a little easier.<span><span/> But you got to do it every day.</i> 🚀 </h2>
  
 ### 🧐 About Me:
 
