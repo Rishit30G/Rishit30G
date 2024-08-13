@@ -15,7 +15,7 @@
 - 🏢 &nbsp; Worked as an **Open Source developer** at **Code For GovTech (2023)** and completed **SDE Internship** at **ProdigalAI**
 - 🔭 &nbsp; I have also worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
 - 🌱 &nbsp; I’m currently a beginner in **GO** and **GraphQL**
-- 👨🏻‍💻 &nbsp; I enjoy solving programming problems at **Codeforces** and **LeetCode**
+- 👨🏻‍💻 &nbsp; I enjoy solving programming problems on **Codeforces** and **LeetCode**
 - 💬 &nbsp; Feel free to ask my review on latest tools and tech products in market!   
 - 📚 &nbsp; When I'm free I like to work on my soft skills and make myself a better person 
 - 💳 &nbsp; Visit [Rishit Portfolio](https://rishit-portfolio.netlify.app) to know more.
