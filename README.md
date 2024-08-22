@@ -10,8 +10,8 @@
  
 ### 🧐 About Me:
 
-- 🏫 &nbsp; Completed **Btech in Computer Science and Engineering**
 - 💼 &nbsp; Working as **Software Engineer at rtCamp**
+- 🏫 &nbsp; Completed **Btech in Computer Science and Engineering**
 - 🏢 &nbsp; Worked as an **Open Source developer** at **Code For GovTech (2023)** and completed **SDE Internship** at **ProdigalAI**
 - 🔭 &nbsp; I have also worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
 - 🌱 &nbsp; I’m currently a beginner in **GO** and **GraphQL**
