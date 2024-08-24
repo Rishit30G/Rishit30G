@@ -90,7 +90,7 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:370/1*jO715XDC1YAEsWUwovWUQw.png" align="left" height='52px'/>
 
-
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" align="left" height="42px"/>
 
 
 
