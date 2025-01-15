@@ -92,5 +92,7 @@
 
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" align="left" height="42px"/>
 
+<img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" align="left" height="42px" />
+
 
 </div>
