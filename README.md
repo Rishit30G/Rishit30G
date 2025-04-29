@@ -67,13 +67,13 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" align="left" alt="git" height='42px'/>
 
+<img src="https://remix.run/_brand/remix-letter-dark.png" align="left" height="42px" />
 
 <img src="https://github.com/user-attachments/assets/7e86af2b-7d6b-4154-961e-8c9a800f0ec0" align="left" height='42px'/>
 
 
 <img src="https://github.com/user-attachments/assets/206ab604-1631-48b4-8a8a-30293c0946cd" align="left" height='42px'/>
 
-<img src="https://github.com/user-attachments/assets/2a266ebd-88c3-4afa-b929-afb26694be77" align="left" height='42px'/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br></br>
@@ -93,6 +93,10 @@
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" align="left" height="42px"/>
 
 <img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" align="left" height="42px" />
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" align="left" height="42px" />
+
+<img src="https://github.com/user-attachments/assets/2a266ebd-88c3-4afa-b929-afb26694be77" align="left" height='42px'/>
 
 
 </div>
