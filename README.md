@@ -18,7 +18,7 @@
 - 👨🏻‍💻 &nbsp; I enjoy solving programming problems on **Codeforces** and **LeetCode**
 - 💬 &nbsp; Feel free to ask my review on latest tools and tech products in market!   
 - 📚 &nbsp; When I'm free I like to work on my soft skills and make myself a better person 
-- 💳 &nbsp; Visit [Rishit Portfolio](https://rishit-portfolio.netlify.app) to know more.
+- 💳 &nbsp; Visit [Rishit Portfolio](https://rishitgupta.in) to know more.
 - ⚡ &nbsp; **FunFact: Daily Meditation 🧘🏻‍♂️ > Daily Motivation 💪**
 
 
