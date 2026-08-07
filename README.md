@@ -1,14 +1,14 @@
 ## Hey, Rishit here! 👋
  
 ### 🧐 About Me:
-- 💼 &nbsp; **Software Engineer 2 (Growth) at rtCamp**, building AI systems that ship in 2 days what used to take 2 weeks
-- 🤖 &nbsp; **AI Automation Engineer** specialising in **Agentic AI, AI Agents, and LLM-powered applications**, production grade and shipped fast
-- 🛠️ &nbsp; Building **AI Agents, automation harnesses, and RAG pipelines** using LangGraph, LangChain, LangSmith, n8n, and Claude Code
-- 🌐 &nbsp; **Full Stack Developer** working with Next.js, React.js, Vercel AI SDK, Convex, Supabase, Tailwind CSS, Shadcn, GSAP, and Motion.dev
-- 🎤 &nbsp; **International Speaker** at AICD Tunis, AWS Cameroon, Claude, AWS, GitHub, The Product Folks, CityJS, and APIDays, talking MCP, RAG, AI Agents, Generative AI, and LLM Optimization. [Learn more](https://rishitgupta.in/blogs/speaking-at-ai-events)
-- 🏫 &nbsp; B.Tech in Computer Science and Engineering | Open Source contributor at Code For GovTech (2023)
-- 📈 &nbsp; Open to conversations on **Forward Deployed Engineering, Growth Engineering, GTM Engineering, and Developer Relations**
-- 💳 &nbsp; Visit [Rishit Portfolio](https://rishitgupta.in) to know more.
+💼 &nbsp; **Software Engineer 2 (Growth) at rtCamp**, building AI systems that ship in 2 days what used to take 2 weeks
+🤖 &nbsp; **AI Automation Engineer** specialising in **Agentic AI, AI Agents, and LLM-powered applications**, production grade and shipped fast
+🛠️ &nbsp; Building **AI Agents, automation harnesses, and RAG pipelines** using LangGraph, LangChain, LangSmith, n8n, and Claude Code
+🌐 &nbsp; **Full Stack Developer** working with Next.js, React.js, Vercel AI SDK, Convex, Supabase, Tailwind CSS, Shadcn, GSAP, and Motion.dev
+🎤 &nbsp; **International Speaker** at AICD Tunis, AWS Cameroon, Claude, AWS, GitHub, The Product Folks, CityJS, and APIDays, talking MCP, RAG, AI Agents, Generative AI, and LLM Optimization. [Learn more](https://rishitgupta.in/blogs/speaking-at-ai-events)
+🏫 &nbsp; B.Tech in Computer Science and Engineering | Open Source contributor at Code For GovTech (2023)
+📈 &nbsp; Open to conversations on **Forward Deployed Engineering, Growth Engineering, GTM Engineering, and Developer Relations**
+💳 &nbsp; Visit [Rishit Portfolio](https://rishitgupta.in) to know more.
 
 ### Languages and Tools:
  
