@@ -1,12 +1,10 @@
 
-![Black Technology LinkedIn Banner (4)](https://github.com/Rishit30G/Rishit30G/assets/74411873/7919ade4-dff4-4fb6-9406-b1f297e2443e)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta+😎;Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
- <h2 align="center"><i> Every day it gets a little easier.<span><span/> But you got to do it every day.</i> 🚀 </h2>
  
 ### 🧐 About Me:
 
@@ -20,17 +18,6 @@
 - 📚 &nbsp; When I'm free I like to work on my soft skills and make myself a better person 
 - 💳 &nbsp; Visit [Rishit Portfolio](https://rishitgupta.in) to know more.
 - ⚡ &nbsp; **FunFact: Daily Meditation 🧘🏻‍♂️ > Daily Motivation 💪**
-
-
-
-
-### Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rishit30G&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit30G&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-<br> 
-### Leetcode Stats 
-![Leetcode Stats](https://leetcard.jacoblin.cool/rishit_30g?ext=heatmap)
 
 <br>
 
