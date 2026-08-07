@@ -1,89 +1,54 @@
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rishit+Gupta+😎;Welcome+to+my+Github!&center=true&size=30">
-  </a>
-</h1>
+## Hey, Rishit here! 👋
  
 ### 🧐 About Me:
-
-- 💼 &nbsp; Working as **Software Engineer at rtCamp**
-- 🏫 &nbsp; Completed **Btech in Computer Science and Engineering**
-- 🏢 &nbsp; Worked as an **Open Source developer** at **Code For GovTech (2023)** and completed **SDE Internship** at **ProdigalAI**
-- 🔭 &nbsp; I have also worked as a **Front-End Intern** as well as a **Flutter Intern** in a fast growing AI/ML startup
-- 🌱 &nbsp; I’m currently a beginner in **GO** and **GraphQL**
-- 👨🏻‍💻 &nbsp; I enjoy solving programming problems on **Codeforces** and **LeetCode**
-- 💬 &nbsp; Feel free to ask my review on latest tools and tech products in market!   
-- 📚 &nbsp; When I'm free I like to work on my soft skills and make myself a better person 
+- 💼 &nbsp; **Software Engineer 2 (Growth) at rtCamp**, building AI systems that ship in 2 days what used to take 2 weeks
+- 🤖 &nbsp; **AI Automation Engineer** specialising in **Agentic AI, AI Agents, and LLM-powered applications**, production grade and shipped fast
+- 🛠️ &nbsp; Building **AI Agents, automation harnesses, and RAG pipelines** using LangGraph, LangChain, LangSmith, n8n, and Claude Code
+- 🌐 &nbsp; **Full Stack Developer** working with Next.js, React.js, Vercel AI SDK, Convex, Supabase, Tailwind CSS, Shadcn, GSAP, and Motion.dev
+- 🎤 &nbsp; **International Speaker** at AICD Tunis, AWS Cameroon, Claude, AWS, GitHub, The Product Folks, CityJS, and APIDays, talking MCP, RAG, AI Agents, Generative AI, and LLM Optimization. [Learn more](https://rishitgupta.in/blogs/speaking-at-ai-events)
+- 🏫 &nbsp; B.Tech in Computer Science and Engineering | Open Source contributor at Code For GovTech (2023)
+- 📈 &nbsp; Open to conversations on **Forward Deployed Engineering, Growth Engineering, GTM Engineering, and Developer Relations**
 - 💳 &nbsp; Visit [Rishit Portfolio](https://rishitgupta.in) to know more.
-- ⚡ &nbsp; **FunFact: Daily Meditation 🧘🏻‍♂️ > Daily Motivation 💪**
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Rishit30G&style=for-the-badge)
 
 ### Languages and Tools:
-<div>
-<img align="left" src="https://user-images.githubusercontent.com/74411873/147396578-39a852d5-d8f1-4ad7-bc50-02bcbda7e444.png" alt="pytorch" height="42px"/>
+ 
 
-  
-<img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+ 
 
-  
-<img src="https://i.postimg.cc/Dw9PqVr3/512px-Typescript-logo-2020-svg.png" align="left" alt="git" height='42px'/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/-Shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+ 
 
-  
-<img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+ 
 
-  
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" align="left" alt="git" height='42px'/> 
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" align="left" alt="git" height='42px'/> 
-
-
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" align="left" alt="git" height='42px'/>
-
-
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" align="left" alt="git" height='42px'/>
-
-
-<img src="https://i.postimg.cc/8CGw2QjB/1200px-Graph-QL-Logo-svg.png" align="left" alt="git" height='42px'/>
-
-
-<img src="https://miro.medium.com/v2/resize:fit:500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" align="left" alt="git" height='42px'/>
-
-<img src="https://remix.run/_brand/remix-letter-dark.png" align="left" height="42px" />
-
-<img src="https://github.com/user-attachments/assets/7e86af2b-7d6b-4154-961e-8c9a800f0ec0" align="left" height='42px'/>
-
-
-<img src="https://github.com/user-attachments/assets/206ab604-1631-48b4-8a8a-30293c0946cd" align="left" height='42px'/>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br></br>
-
-<img src="https://github.com/user-attachments/assets/d7d50ebd-b761-43fc-8a79-07369a7c7a69" align="left" height='42px' />
-
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" align="left" height='42px' />
-
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" align="left" height='42px' />
-
-<img src="https://miro.medium.com/v2/resize:fit:1080/1*9l9kbbiuFHWVqcjUJZcdYw.png" align="left" height='42px' />
-
-<img src="https://miro.medium.com/v2/resize:fit:370/1*jO715XDC1YAEsWUwovWUQw.png" align="left" height='42px'/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" align="left" height="40px"/>
-
-<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" align="left" height="42px"/>
-
-<img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" align="left" height="42px" />
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" align="left" height="42px" />
-
-<img src="https://github.com/user-attachments/assets/2a266ebd-88c3-4afa-b929-afb26694be77" align="left" height='42px'/>
-
-
-</div>
+### Connect with me
+<p align="left">
+  <a href="https://www.x.com/rishit30g" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishit30g/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
